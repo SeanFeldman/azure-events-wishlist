@@ -12,6 +12,6 @@ Azure services emit a variety of events to Azure Event Grid enabling you to exte
 
 ## Examples
 
-Here are examples of how powerful Azure events can be:
+Here are example(s) of how powerful Azure events can be:
 
 - [Monitoring Key Vault with Azure Event Grid](https://docs.microsoft.com/en-us/azure/key-vault/event-grid-overview) and automatically renew certificates that are about to expire.
