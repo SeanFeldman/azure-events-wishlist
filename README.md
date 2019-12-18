@@ -7,7 +7,7 @@ Azure emits a variety of events to Azure Event Grid which allows you to extend a
 ## How can you help?
 
 - **Propose new event suggestions** by opening a new issue
-- **Vote for an event** that you'd like to be supported by giving a :+1: on the issue
+- **Vote for the events** you'd like to see supported by giving a :+1: on the issues
 - **Discuss events** to provide valuable information to the Microsoft service teams
 
 ## Examples
