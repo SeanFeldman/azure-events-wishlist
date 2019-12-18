@@ -1,6 +1,6 @@
 ---
 name: Event request
-about: Request a new EventGrid event
+about: Request a new Azure event
 title: New event request
 labels: ''
 assignees: ''
