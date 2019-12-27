@@ -6,7 +6,7 @@ Azure services emit a variety of events to Azure Event Grid, enabling you to ext
 
 ## How can you help?
 
-- **Propose new event suggestions** by opening a new issue
+- **Propose new event suggestions** by opening a [new issue](https://github.com/SeanFeldman/azure-events-wishlist/issues/new?assignees=&labels=&template=event-request.md&title=New+event+request)
 - **Vote for the events** you'd like to see supported by giving a :+1: on the issues
 - **Discuss events** to provide valuable information to the Microsoft service teams
 
